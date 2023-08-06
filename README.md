@@ -4,8 +4,12 @@
 
 Eye Strain Reminder is a Chrome extension especially designed for developers and individuals who spend long hours in front of the screen. Derived from the famous 20-20-20 rule for eye strain, this extension helps users maintain healthy eyes by reminding them to take regular breaks.
 
-![eye](https://i.ibb.co/xD28jYQ/eye.png)
-![eye](https://i.ibb.co/4WCTcbf/Screenshot-89.png)
+![eye](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/8264ace8-aefa-4dfd-a263-b17ed96c1f82)
+
+![Screenshot (89)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/a7e94f1f-19cf-46d9-93ad-fd55626164ae)
+
+![Screenshot (90)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/1afefcb6-148b-4dd4-9179-43a6f010c00a)
+
 # Installation:
 
 Follow these simple steps to install the Eye Strain Reminder Chrome Extension:
