@@ -15,11 +15,17 @@ Eye Strain Reminder is a Chrome extension especially designed for developers and
 Follow these simple steps to install the Eye Strain Reminder Chrome Extension:
 
 Download or clone this repository to your local machine.
+
 Open Google Chrome and type chrome://extensions/ in the address bar.
+
 Enable the "Developer mode" in the top right corner of the extensions page.
+
 Click on the "Load unpacked" button.
+
 Please navigate to the folder where you downloaded or cloned the repository and select it.
+
 The extension will be added to your browser, and you will see its icon in the Chrome toolbar.
+
 
 # How to Use:
 
