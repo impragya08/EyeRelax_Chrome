@@ -8,10 +8,11 @@ Eye Strain Reminder is a Chrome extension especially designed for developers and
 
 ![Screenshot (89)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/a7e94f1f-19cf-46d9-93ad-fd55626164ae)
 
-![Screenshot (93)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/1bcfbee5-dd36-4c0c-9383-2499637d2f0d)
+![Screenshot (93)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/2306013d-e6cf-4432-9227-72965ce76e1d)
 
 
-![Screenshot (90)](https://github.com/impragya08/EyeRelax_Chrome/assets/84717393/1afefcb6-148b-4dd4-9179-43a6f010c00a)
+
+
 
 # Installation:
 
